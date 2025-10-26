@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+@import 'primeicons/primeicons.css';
+
+@theme {
+  --color-blue-gategroup: #010165;
+}
